@@ -40,7 +40,7 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./Traffic_Light)
 
-![Traffic Light](Traffic_Light/Traffic.png)
+![Traffic Light](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/Traffic%20.png)
 
 ▶️ [Open in Tinkercad](https://www.tinkercad.com/things/gEqnvE1U0Df-traffic-)
 
@@ -50,9 +50,9 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./Switch)
 
-![Switch](Switch/Switch.png)
+![Switch](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/Switch%20.png)
 
-▶️ [Open in Tinkercad](https://www.tinkercad.com/things/4E6q5n07GAC-switch-)
+▶️ [Open in Tin
 
 ---
 
