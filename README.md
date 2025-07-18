@@ -10,7 +10,7 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./Analog_LED)
 
-![Analog LED](Analog_LED/analog%20led.png)
+![Analog LED](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/Analog%20led.png)
 
 ▶️ [Open in Tinkercad](https://www.tinkercad.com/things/iBXiDq8eTHH-analog-led)
 
