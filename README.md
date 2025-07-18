@@ -30,7 +30,7 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./LED)
 
-![LED](LED/LED.png)
+![LED](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/LED.png)
 
 ▶️ [Open in Tinkercad](https://www.tinkercad.com/things/kwOnFrq4GJS-led)
 
@@ -60,7 +60,7 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./LCD)
 
-![LCD Display](LCD/LCD2.png)
+![LCD Display](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/LCD1%202.png)
 
 ▶️ [Open in Tinkercad](https://www.tinkercad.com/things/8hPP3dKVU34-lcd2)
 
