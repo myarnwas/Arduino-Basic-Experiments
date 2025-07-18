@@ -20,7 +20,7 @@ This repository contains a collection of basic Arduino simulations created using
 
 [🔗 View Folder](./Analog_Sensor)
 
-![Analog Sensor](Analog_Sensor/Glorious%20Duup.png)
+![Analog Sensor](https://github.com/myarnwas/Arduino-Basic-Experiments/blob/main/Glorious%20Duup.png)
 
 ▶️ [Open in Tinkercad](https://www.tinkercad.com/things/2A7YIsn9hdh-analog-sensor-)
 
